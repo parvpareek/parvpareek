@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Transformere Models | React  | Deep Learning
+- 🔧 &nbsp; React | Deep Learning Models
 
 <hr>
 
