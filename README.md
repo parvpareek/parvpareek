@@ -20,25 +20,22 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Java | C++ | C | MySQL| Tensorflow | Machine Learning
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Django
 
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL 
 
 - 🔧 &nbsp; Git | Markdown 
 
-- 🖥 &nbsp; Canva| Photoshop 
+- 🖥 &nbsp; Canva
 
--->
 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React | Deep Learning Models
+- 🔧 &nbsp; React | Deep Learning | Transformer Models
 
 <hr>
 
