@@ -6,11 +6,11 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; ML Research and Transformer Models.
 
 - 🎓 &nbsp; Studying Computer Engineering  at Marwadi University.
 
-- 🌱 &nbsp; Learning about Deep Learning.
+- 🌱 &nbsp; Deep Learning and NLP.
 
 - ✍️ &nbsp; Pursuing Web Development as a hobby.
 
@@ -20,11 +20,11 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL| Tensorflow | Machine Learning
+- 💻 &nbsp; Python | Pytorch | Tensorflow | Scikit-learn | Java | C++ | C  | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Django
+- 🌐 &nbsp; Node JS, Expresss, React, MongoDB, HTML | CSS | JavaScript | Bootstrap | Django
 
-- 🛢 &nbsp; MySQL 
+- 🛢 &nbsp; MySQL  | MongoDB
 
 - 🔧 &nbsp; Git | Markdown 
 
@@ -35,15 +35,15 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React | Deep Learning | Transformer Models
+- 🔧 &nbsp; Knowledge Graphs | RAG | LSTMs
 
 <hr>
 
-
+[My Blog](https://parvpareek.hashnode.dev/)
 
 <br/><br/>
 
-[![Parv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvpareek&show_icons=true)](https://github.com/shivam0110)
+[![Parv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvpareek&show_icons=true)](https://github.com/parvpareek)
 
 <br/>
 
@@ -73,7 +73,7 @@
 
 <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pervpareek-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pervpareek@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:pervpareek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pervpareek@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
