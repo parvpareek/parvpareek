@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<a href="https://x.com/parvpareek_"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url"></a>
+<a href="https://x.com/parvpareek_"> X (Twitter) </a>
 
 <a href="https://www.linkedin.com/in/parvpareek/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Parv%20Pareek-blue?style=flat-square&logo=linkedin"></a>
 
