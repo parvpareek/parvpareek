@@ -1,7 +1,5 @@
 ### Hi there 👋<h2> I'm Parv</h2>
 
-<h3> 👨🏻•💻 About Me </h3>
-<hr>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
