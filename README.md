@@ -1,6 +1,10 @@
 ### Hi there 👋<h2> I'm Parv</h2>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> About me</h3>
+- 4th Year Undergrad
+- Interests: ML Research, Engineering
+- I love working on technical problems.
+
 
 <br>
 
@@ -15,6 +19,4 @@
 </p>
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvpareek&show_icons=true)
-
 <hr>
