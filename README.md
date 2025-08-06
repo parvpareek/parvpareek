@@ -24,7 +24,8 @@
   <!-- Featured Portfolio -->
   <p>
     <a href="https://parvpareek.github.io/" target="_blank">
-        <h4>Portfolio Link</h4>
+        <h4>Visit My Portfolio:</h4>
+      <a href="https://parvpareek.github.io/">Link</a>
     </a>
   </p>
 </div>
