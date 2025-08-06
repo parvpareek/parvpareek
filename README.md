@@ -66,9 +66,11 @@
 
 ### 💻 Projects
 - **Cross-Lingual Transfer: Hindi → Gujarati** — Bridging low-resource Indic languages with cross-lingual transfer (In Progress)  
-- **Multitask BERT (SimCSE)** — 93% STS, 88% paraphrase, 94% sentiment on contrastive BERT ([GitHub](https://github.com/parvpareek/minbert))  
-- **Code Class DSA Tracker** — Full-stack learning platform for 100+ students with analytics (React, Node.js)  
-- **Hindi Text Summarizer** — IndicBART transformer achieving ROUGE-1 0.46 ([GitHub](https://github.com/parvpareek/hindi-text-summarization))  
+- **[Multitask BERT (SimCSE)](https://github.com/parvpareek/minbert)** — 93% STS, 88% paraphrase, 94% sentiment on contrastive BERT   
+- **[Code Class DSA Tracker](https://code-class-eight.vercel.app)** — Google Classroom But for DSA Assignments with automated submission checking. 200+ students  with analytics (React, Node.js)  
+- **[Hindi Text Summarizer](https://github.com/parvpareek/hindi-text-summarization)** — IndicBART transformer achieving ROUGE-1 0.46
+- **[Zenith](https://github.com/parvpareek/zenith)** — Minimalistic Productivity App with LLM integration to analyze and coach productivity habits  
+ 
 
 *(More on my [Repositories](https://github.com/parvpareek?tab=repositories).)*
 
